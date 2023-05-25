@@ -11,9 +11,15 @@ Free Working Boost-Bot for discord. I bought a outdated boost-bot and fixed it.
 **---Commands---**
 
 /addadmin 
+
 /boost
+
 /stock
+
 /restock
+
 /cstock
+
 /stop
+
 /start
