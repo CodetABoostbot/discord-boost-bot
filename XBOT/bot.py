@@ -1,4 +1,4 @@
-# CREATED BY EXPOOKY :)
+# CREATED BY BananenSaft#0001 :)
 
 import discord, json, requests, httpx, base64
 from json import loads
